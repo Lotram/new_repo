@@ -1,1 +1,1 @@
-fregt = "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"
+fregt = "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"
